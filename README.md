@@ -20,13 +20,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" defer="defer"></script>
 <script src="js/script.js" defer="defer" ></script>
 </head>
-
-
-
-
 <body>
-
-
 <div id='page'>
 	<header>
 		<div id='logo'>

@@ -11,6 +11,7 @@
 ![image](https://github.com/seokhyun06/WebPage/assets/122009563/25551940-46d2-4173-b550-5728738ef982)
 
 # [index.html 코드]
+
  <!DOCTYPE html>
 <html>
 <head>

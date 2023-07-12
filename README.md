@@ -2,7 +2,7 @@
 
 # [움직이는 대한민국 문화 꾸미기]
 
-![image](https://github.com/seokhyun06/WebPage/assets/122009563/a588dfb7-b56a-4fe9-90c6-5dc8ba112837)
+![image](https://github.com/seokhyun06/WebPage/assets/122009563/73830d89-2808-4877-bf2e-8745c00f19ab)
 
 # [로그인 화면]
 

@@ -12,3 +12,8 @@
 
 ![image](https://github.com/seokhyun06/WebPage/assets/122009563/25551940-46d2-4173-b550-5728738ef982)
 
+# [시계 출력]
+![image](https://github.com/seokhyun06/WebPage/assets/122009563/d404cdf4-698a-458e-adea-accc3cc2a16c)
+
+window.onload 통해 실행과 동시에 함수 내용이 출력 되는 형식으로 getTime 메서드를 만들어서 년, 월, 일, 시, 분. 초를 가져와 출력하는 형식이다.
+
